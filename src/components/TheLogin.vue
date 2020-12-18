@@ -26,6 +26,7 @@
 </template>
 <script>
 import swal from 'sweetalert';
+
 export default {
     name: "TheLogin",
     
@@ -38,7 +39,7 @@ export default {
         }
     },
 
-//seguro en methods colocaste function, y allí no se nombran funciones como tal D:si tienes alguna función, le quitas el function y listo.
+ //seguro en methods colocaste function, y allí no se nombran funciones como tal D:si tienes alguna función, le quitas el function y listo.
        
     methods: {
         
